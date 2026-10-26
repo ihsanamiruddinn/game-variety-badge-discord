@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Secrets and local state
+.env
+.env.*
+*.local
+science_state.json
+config.json
+tokens.json
+cookies.txt
+
+# Logs and screenshots
+*.log
+logs/
+screenshots/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
